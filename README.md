@@ -34,7 +34,7 @@ and paste its URL into SjPyRat.py, line 126. Then run builder.bat
 .webcam - Takes a snapshot from the webcam and sends it to Discord.
 .display - Waits for an image upload and sets it as the desktop wallpaper.
 .music - Waits for a music file upload and plays it.
-'''
+```
 
 **Install**
 
