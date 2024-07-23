@@ -38,6 +38,6 @@ and paste its URL into SjPyRat.py, line 126. Then run builder.bat
 
 **Install**
 
-Python 3.11.0
-Windows 10-11
+1. Python 3.11.0
+2. Windows 10-11
 
