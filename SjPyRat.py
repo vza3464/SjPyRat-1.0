@@ -123,7 +123,7 @@ intents.message_content = True
 bot = commands.Bot(command_prefix='.', intents=intents)
 
 # URL вашего вебхука
-WEBHOOK_URL = "https://discord.com/api/webhooks/1244347108367138866/oGjEEfNQcwJQu-sT0joSgV97xHLsxBh8jpDoWilFZcey0UkSDZJ2UQKUSYtyeiy9SFpP"
+WEBHOOK_URL = "ENTER_YOUR_DISCORD_WEBHOOK_URL"
 
 # Команда для снимка экрана
 @bot.command()
